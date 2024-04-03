@@ -1,0 +1,16 @@
+these result just for the test data.
+
+## clustering result:
+dbi=0.3747
+psf=5636.42
+ssr/sst=0.9223
+
+
+## cnn test result:
+the acc of model 0:   train: 0.987    test:0.980
+the acc of model 1:   train: 0.984    test:0.983
+the acc of model 2:   train: 0.984    test:0.983
+the acc of model 3:   train: 0.981    test:0.983
+the acc of model 3:   train: 0.986    test:0.983
+
+
